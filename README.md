@@ -1,6 +1,6 @@
-## Bootloader Opencore Hackintosh
+# Bootloader Opencore Hackintosh
 
-**HP 240 G6 Notebook**
+### HP 240 G6 Notebook
 
 My Laptop Specification:
 
@@ -18,7 +18,7 @@ My Laptop Specification:
  
  
 
-## What's Not Working
+### What's Not Working
 
  - Touchpad work but no preference
  - Battery indicator
