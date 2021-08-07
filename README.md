@@ -14,7 +14,7 @@ My Laptop Specification:
  - Display: 1366 x 768 px
  - Ethernet: Realtek RTL 811
  - BootLoader: Opencore 7.1
- - OS Version: MacOS Catalina 10.15.7
+ - OS Version: MacOS BigSur 11.5.1
  
  
 
@@ -22,6 +22,5 @@ My Laptop Specification:
 
  - Touchpad work but no preference
  - Battery indicator
- - Wifi
  
 <u>other than that it works
